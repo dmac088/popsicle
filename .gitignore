@@ -1,0 +1,7 @@
+/.metadata/
+/.recommenders/
+mochidb.backup*
+luke-with-deps.jar
+GeoLite2-City.mmdb
+be/build/*
+db/backup/archive/*
