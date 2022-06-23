@@ -1,0 +1,1 @@
+"%JAVA_HOME%\jre\bin\keytool" -delete -alias mochi -keystore "%JAVA_HOME%\jre\lib\security\cacerts"
